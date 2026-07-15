@@ -14,9 +14,7 @@
 
 <div align="center">
 
-## 🔐 Security Research & Vulnerability Disclosure
-
-Publicly disclosed vulnerabilities, security research, and responsible disclosures.
+#  🛡️ Security Research & CVE Disclosures
 
 <br>
 
@@ -26,15 +24,15 @@ Publicly disclosed vulnerabilities, security research, and responsible disclosur
 | [![CVE-2021-3165](https://img.shields.io/badge/CVE--2021--3165-orange?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-3165.md) | **SmartAgent 3.1.0** | Privilege Escalation | 🟠 **HIGH** | **8.8** | 🟡 Disclosed |
 | [![CVE-2021-30150](https://img.shields.io/badge/CVE--2021--30150-yellow?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-30150.md) | **Composr CMS 10.0.36** | Reflected XSS | 🟡 **MEDIUM** | **6.1** | ✅ Patched |
 
-<br>
-
 </div>
-
-Each entry above links to a full advisory: root cause, impact, remediation, and references to the original NVD / Exploit-DB / Packet Storm records. All findings were responsibly disclosed to the respective vendors.
 
 <br/>
 
+<div align="center">
+
 # 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
