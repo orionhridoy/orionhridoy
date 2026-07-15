@@ -16,6 +16,4 @@ Building modern software, developer tools, scalable infrastructure, and open-sou
 
 </p>
 
----
-
 </div>
