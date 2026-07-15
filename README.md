@@ -17,3 +17,11 @@ Building modern software, developer tools, scalable infrastructure, and open-sou
 </p>
 
 </div>
+
+---
+
+# Philosophy
+
+> The best software feels invisible - fast, intuitive, and effortlessly reliable.
+
+---
