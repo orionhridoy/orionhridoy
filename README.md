@@ -19,7 +19,7 @@
 <br>
 
 | CVE | Component | Vulnerability | Severity | CVSS | Status |
-|:---:|---|---|---|:---:|:---:|
+|:---:|---|---|---|:---:|---|
 | [![CVE-2021-30149](https://img.shields.io/badge/CVE--2021--30149-red?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-30149.md) | **Composr CMS 10.0.36** | Unrestricted File Upload → RCE | 🔴 **CRITICAL** | **9.8** | ✅ Patched |
 | [![CVE-2021-3165](https://img.shields.io/badge/CVE--2021--3165-orange?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-3165.md) | **SmartAgent 3.1.0** | Privilege Escalation | 🟠 **HIGH** | **8.8** | 🟡 Disclosed |
 | [![CVE-2021-30150](https://img.shields.io/badge/CVE--2021--30150-yellow?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-30150.md) | **Composr CMS 10.0.36** | Reflected XSS | 🟡 **MEDIUM** | **6.1** | ✅ Patched |
