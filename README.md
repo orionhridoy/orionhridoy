@@ -1,4 +1,30 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Powerful+Software;Full+Stack+Developer;Clean+Code+%E2%80%A2+Modern+Architecture" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Orion%20Hridoy&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Building%20the%20tools%20I%20wish%20existed.&descAlignY=60&animation=fadeIn" width="100%" />
+
+# Orion Hridoy
+
+### Software Engineer • Full-Stack Developer • Systems Architect • Open Source Builder
+
+<p>
+Building modern software, developer tools, scalable infrastructure, and open-source solutions with a focus on performance, reliability, and exceptional user experience.
+</p>
+
+<p>
+
+<a href="https://www.facebook.com/orion.hridoy">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 </div>
+
+# Philosophy
+
+> **Software should feel invisible.
+> Fast. Beautiful. Reliable.**
+
+---
