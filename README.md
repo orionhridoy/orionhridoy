@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e3a8a,100:7c3aed&text=Orion%20Hridoy&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Security%20Researcher&descAlign=60&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+the+tools+I+wish+existed.;Making+complex+things+feel+simple.;Shipping+software+by+day%2C+breaking+it+by+night.;3+CVEs+credited+%C2%B7+4%2B+open-source+tools+shipped." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=500&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+the+tools+I+wish+existed.;Making+complex+things+feel+simple.;Shipping+software+by+day%2C+breaking+it+by+night.;3+CVEs+credited+%C2%B7+4%2B+open-source+tools+shipped." alt="Typing SVG" />
 
 <br/>
 
