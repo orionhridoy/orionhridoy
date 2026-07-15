@@ -14,7 +14,7 @@
 
 <div align="center">
 
-#  🛡️ Security Research & CVE Disclosures
+#  ⛊ Security Research & CVE Disclosures ⛊
 
 <br>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-# 🚀 Featured Projects
+# ⏣ Featured Projects ⏣
 
 </div>
 
