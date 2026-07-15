@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Orion%20Hridoy&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Building%20the%20tools%20I%20wish%20existed.&descAlignY=60&animation=fadeIn" width="100%" />
 
-# Orion Hridoy
-
 ### Software Engineer • Full-Stack Developer • Systems Architect • Open Source Builder
 
 <p>
@@ -21,10 +19,3 @@ Building modern software, developer tools, scalable infrastructure, and open-sou
 ---
 
 </div>
-
-# Philosophy
-
-> **Software should feel invisible.
-> Fast. Beautiful. Reliable.**
-
----
