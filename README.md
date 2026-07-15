@@ -6,32 +6,29 @@
 
 <br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/orion.hridoy)
+[![Facebook](https://img.shields.io/badge/Facebook-orion.hridoy-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/orion.hridoy)
 
 </div>
 
 <br/>
 
-## About Me
+## 🛡️ Security Research
 
-Software Engineer • Systems Architect • Security Researcher
+Vulnerability research credited under my name in the National Vulnerability Database - full write-ups linked below.
 
-I build developer tools, self-hosted infrastructure, and modern desktop applications with a strong emphasis on performance, scalability, and security.
+<div align="center">
 
-My work spans the entire software lifecycle-from architecting complex systems and building production-ready applications to identifying real-world security vulnerabilities through responsible disclosure. I have multiple published CVEs and actively contribute to the open-source ecosystem by developing tools used for infrastructure management, remote administration, and developer productivity.
+| CVE | Component | Vulnerability | CVSS v3.1 | Status |
+|---|---|---|:---:|:---:|
+| [![CVE-2021-30149](https://img.shields.io/badge/CVE--2021--30149-red?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-30149.md) | Composr CMS 10.0.36 | Unrestricted File Upload → RCE | **9.8 CRITICAL** | ✅ Patched |
+| [![CVE-2021-3165](https://img.shields.io/badge/CVE--2021--3165-orange?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-3165.md) | SmartAgent 3.1.0 | Privilege Escalation | **8.8 HIGH** | 🟡 Disclosed |
+| [![CVE-2021-30150](https://img.shields.io/badge/CVE--2021--30150-yellow?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-30150.md) | Composr CMS 10.0.36 | Reflected XSS | **6.1 MEDIUM** | ✅ Patched |
 
-**Security Research**
+</div>
 
-* 🛡️ Published **3 CVEs** covering Remote Code Execution (RCE), Broken Access Control, and Cross-Site Scripting (XSS)
+Each entry above links to a full advisory: root cause, impact, remediation, and references to the original NVD / Exploit-DB / Packet Storm records. All findings were responsibly disclosed to the respective vendors.
 
-**Areas of Expertise**
-
-* 🏗️ Software Architecture & System Design
-* 🚀 Full-Stack Application Development
-* 🖥️ Windows Desktop Applications
-* ☁️ Self-Hosted Infrastructure
-* 🔐 Application Security & Vulnerability Research
-* ⚡ Performance & Developer Experience
+<br/>
 
 # 🚀 Featured Projects
 
@@ -151,30 +148,6 @@ A modern all-in-one productivity toolkit built for Windows users.
 </table>
 
 ---
-
-## 🛡️ Security Research
-
-Vulnerability research credited under my name in the National Vulnerability Database - full write-ups linked below.
-
-<div align="center">
-
-| CVE | Component | Vulnerability | CVSS v3.1 | Status |
-|---|---|---|:---:|:---:|
-| [![CVE-2021-30149](https://img.shields.io/badge/CVE--2021--30149-red?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-30149.md) | Composr CMS 10.0.36 | Unrestricted File Upload → RCE | **9.8 CRITICAL** | ✅ Patched |
-| [![CVE-2021-3165](https://img.shields.io/badge/CVE--2021--3165-orange?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-3165.md) | SmartAgent 3.1.0 | Privilege Escalation | **8.8 HIGH** | 🟡 Disclosed |
-| [![CVE-2021-30150](https://img.shields.io/badge/CVE--2021--30150-yellow?style=flat-square)](https://github.com/orionhridoy/Security-Research/blob/main/CVE-2021-30150.md) | Composr CMS 10.0.36 | Reflected XSS | **6.1 MEDIUM** | ✅ Patched |
-
-</div>
-
-Each entry above links to a full advisory: root cause, impact, remediation, and references to the original NVD / Exploit-DB / Packet Storm records. All findings were responsibly disclosed to the respective vendors.
-
-<br/>
-
-### 📫 Let's Connect
-
-[![Facebook](https://img.shields.io/badge/Facebook-orion.hridoy-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/orion.hridoy)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer" width="100%"/>
 
